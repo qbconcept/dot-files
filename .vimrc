@@ -1,4 +1,4 @@
-:set number
+set number
 syntax on
 filetype plugin indent on
 " show existing tab with 4 spaces width
@@ -7,3 +7,4 @@ set tabstop=4
 set shiftwidth=4
 " On pressing tab, insert 4 spaces
 set expandtab
+set colorcolumn=80
